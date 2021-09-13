@@ -4,7 +4,7 @@ init -990 python:
         author="tw4449 Cdino112 multimokia d3adpan Booplicate",
         name="Habitación Personalizada Amueblado Espacio V1",
         description="Este submod añade un conjunto minimalista de muebles Spaceroom para ti y Monika.",
-        version="1.0.5"
+        version="1.0.5.1"
     )
 
 # Register the updater
