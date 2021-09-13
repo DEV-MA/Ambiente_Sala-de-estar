@@ -1,4 +1,4 @@
-# Sala de estar
+# Sala de estar V1
 Añade algunos muebles para hacer más acogedora tu estadia en el cuarto principal.
 
 Creador: [tw4449](https://github.com/tw4449/tw4449-Custom-Room-Selection-Pack-Main-Repository)
